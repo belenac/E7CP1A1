@@ -6,3 +6,6 @@ puts productos
 
 productos['bebida'] = 2000
 puts productos
+
+# Convertir el hash en un array y guardarlo en una nueva variable.
+print productos.dup.to_a
