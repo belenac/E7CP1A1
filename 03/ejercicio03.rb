@@ -9,8 +9,9 @@ h['x'] = 5
 puts h
 
 # Eliminar la clave y.
+h.delete('y')
+puts h
 
 # Si el hash tiene una clave llamada z mostrar en pantalla "yeeah".
 
 # Invertir el diccionario de forma que los valores sean las llaves y las llaves los valores
-
