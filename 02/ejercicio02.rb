@@ -2,5 +2,7 @@ productos = { 'bebida' => 850, 'chocolate' => 1200, 'galletas' => 900, 'leche' =
 productos.each { |valor, producto| puts producto }
 
 productos['cereal'] = 2200
+puts productos
 
+productos['bebida'] = 2000
 puts productos
