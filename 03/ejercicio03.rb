@@ -5,6 +5,8 @@ h['z'] = 3
 puts h
 
 # Cambiar el valor de x por 5.
+h['x'] = 5
+puts h
 
 # Eliminar la clave y.
 
