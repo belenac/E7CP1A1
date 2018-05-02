@@ -14,4 +14,5 @@ puts h
 
 # Si el hash tiene una clave llamada z mostrar en pantalla "yeeah".
 
-# Invertir el diccionario de forma que los valores sean las llaves y las llaves los valores
+# Invertir el diccionario de forma que los valores sean las llaves y las llaves los valores.
+puts h.invert
